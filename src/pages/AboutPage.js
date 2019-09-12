@@ -8,13 +8,17 @@ const AboutPage = () => (
 Address:<br/>
 461 Riverdale Avenue<br/>
 Yonkers, NY 10705-2970<br/>
-<a href="https://github.com/curgery/">https://github.com/curgery</a><br/>
+Contact: (914) 536-3128<br/>
+<a href="mailto:rglover898@optonline.net">Send email to:  rglover898@optonline.net</a><br/><br/>
+Development Projects:<br/>
+<a href="https://github.com/curgery/">https://github.com/curgery</a><br/><br/>
+Blog/CV:<br/>
 <a href="https://rlglover.com/">https://rlglover.com/</a><br/>
-<a href="mailto:rglover898@optonline.net">Send email to:  rglover898@optonlline.net</a><br/>
+
 </p>
 <ul>								
 <h4>
-User interface developer engaged in front end development, mobile apps, website applications, accessibility + usability, workflows for digital publishing, communications,brand expansion and business strategies.
+User interface developer engaged in front end development, mobile apps, website applications, accessibility + usability, workflows for digital publishing, communications, brand expansion and business strategies.
 </h4>
  </ul>	
 
