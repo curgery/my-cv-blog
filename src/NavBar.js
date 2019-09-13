@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import IMG from './pages/img/IMG_1224.JPG';
+import IMG from './pages/img/img_1224.JPG';
 
 
 const NavBar = () => (
